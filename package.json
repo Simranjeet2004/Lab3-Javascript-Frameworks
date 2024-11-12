@@ -1,0 +1,19 @@
+{
+  "name": "assignment3",
+  "version": "1.0.0",
+  "main": "file1.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon --experimental-json-modules"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  },
+  "description": ""
+}

@@ -1,0 +1,14 @@
+
+[
+    { "id": 1, "name": "Jasman", "Favourite Subject": "Java Fundamentals" },
+    { "id": 2, "name": "Simran", "Favourite Subject": "Arduino" },
+    { "id": 3, "name": "Navleen", "Favourite Subject": "Advanced Java" },
+    { "id": 4, "name": "Puneet", "Favourite Subject": "Java Fundamentals" },
+    { "id": 5, "name": "Yogita", "Favourite Subject": "Advanced Java" },
+    { "id": 6, "name": "Riya", "Favourite Subject": "Introduction to Phychology" },
+    { "id": 7, "name": "Babal", "Favourite Subject": "Lifestyle Management" },
+    { "id": 8, "name": "Harpreet", "Favourite Subject": "Introduction to Phychology" },
+    { "id": 9, "name": "Raman", "Favourite Subject": "Advanced Java" },
+    { "id": 10, "name": "Rashmeet", "Favourite Subject": "Arduino" }
+    ]
+  
